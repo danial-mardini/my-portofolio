@@ -202,7 +202,7 @@ const Home = () => {
                         <div className="icon-wrapper">
                             <img src={process.env.PUBLIC_URL + '/img/js-icon.png'} />
                             <h3>
-                                99%
+                                93%
                             </h3>
                         </div>
                         <div className="language-name">
@@ -214,7 +214,7 @@ const Home = () => {
                         <div className="icon-wrapper">
                             <img src={process.env.PUBLIC_URL + '/img/react-icon.png'} />
                             <h3>
-                                99%
+                                90%
                             </h3>
                         </div>
                         <div className="language-name">
@@ -226,7 +226,7 @@ const Home = () => {
                         <div className="icon-wrapper">
                             <img src={process.env.PUBLIC_URL + '/img/bootstrap.png'} />
                             <h3>
-                                99%
+                                94%
                             </h3>
                         </div>
                         <div className="language-name">
