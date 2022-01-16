@@ -328,3 +328,52 @@
     text-align: center;
 }
 
+
+
+/* 
+responsive 
+*/
+@media only screen and (max-width: 414px){
+    .container{
+        display: flex;
+        flex-direction: column;
+        font-family: 'Lobster', cursive;
+    }
+
+    .first-page{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .second-page{
+        height: auto;
+    }
+
+    .info{
+
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    .my-img{
+        text-align: center;
+    }
+
+    .my-img img {
+        width: 300px;
+        
+    }
+
+    .explain{
+        flex-direction: column;
+
+    }
+
+    .icons{
+        flex-direction: column;
+        height: auto;
+    }
+
+}
